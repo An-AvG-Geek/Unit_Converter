@@ -1,4 +1,4 @@
-# python program for temperature calculator
+# menu driven python program for converting different temperatures.
 
 
 def main():
