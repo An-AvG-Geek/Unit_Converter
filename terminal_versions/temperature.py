@@ -1,10 +1,13 @@
-# menu driven python program for temperature conversions
+# python program for temperature calculator
 
 
 def main():
     while True:
+        print()
+        print("***************************************************************************")
         print(
-            """\t\t\tmenu\n
+            """
+            \t\tmenu
               1.celsius to farenheit
               2.farenheit to celsius 
               3.celsius to kelvin
@@ -13,6 +16,8 @@ def main():
               6.kelvin to farenheit
               7.exit from program\n"""
         )
+        print("***************************************************************************")
+
         choice = int(input("Enter the choice "))
 
         if choice == 1:
