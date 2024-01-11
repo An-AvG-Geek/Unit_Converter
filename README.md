@@ -21,7 +21,9 @@ This Python-based Streamlit web app streamlines unit conversions in Mass, Length
 ### Prerequisites
 
 - Python (version 3.X)
-- Install required dependencies: `pip install -r requirements.txt`
+- Install required dependencies: 
+  ```bash
+  pip install -r requirements.txt
 
 ### Running the App
 
