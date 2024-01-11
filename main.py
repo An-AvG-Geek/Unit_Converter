@@ -4,7 +4,7 @@ from streamlit_option_menu import option_menu
 
 
 def main():
-    st.set_page_config(page_title="Unit Converter", page_icon="")
+    st.set_page_config(page_title="Unit Converter", page_icon="⚖️")
     with st.sidebar:
         navigate = option_menu(
             menu_title="Unit Converter",
