@@ -25,9 +25,10 @@ This Python-based Streamlit web app streamlines unit conversions in Mass, Length
   
 ```bash
 pip install -r requirements.txt
-
+````
 
 ### Running the App
 
-```bash
-streamlit run your_file_name.py
+````bash
+streamlit run main.py
+````
