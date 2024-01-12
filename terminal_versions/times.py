@@ -69,7 +69,7 @@ def main():
         try:
             value = float(input("Enter the value "))
         except ValueError:
-            print("Enter a valid length .....\n")
+            print("Enter a valid time .....\n")
             continue
 
         units = {
