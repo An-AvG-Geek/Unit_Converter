@@ -18,6 +18,25 @@ This Python-based Streamlit web app streamlines unit conversions in Mass, Length
 3. Input the value to be converted.
 4. Click the "Convert" button to get the converted result.
 
+## How to Use Command-Line Version
+
+1.Clone the Repository:
+````bash
+git clone https://github.com/An-AvG-Geek/Unit_Converter.git
+````
+2.Navigate into the Directory:
+````bash
+cd Unit_Converter
+````
+3.Navigate into the Directory containing the CLI Versions:
+```bash
+cd terminal_versions
+````
+4.Run the file according to your need :
+````bash
+python <file_name.py>
+````
+
 ## Getting Started
 
 ### Prerequisites
