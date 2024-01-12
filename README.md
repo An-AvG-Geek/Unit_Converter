@@ -11,7 +11,7 @@ This Python-based Streamlit web app streamlines unit conversions in Mass, Length
 - **Intuitive User Interface:** Streamlined design for easy value input and unit selection.
 - **Modular Codebase:** Highly customizable code structure for easy adjustments and expansion.
   
-## How to Use
+## How to Use Streamlit App
 
 1. Select the desired unit category from the sidebar.
 2. Choose the source and target units for conversion.
