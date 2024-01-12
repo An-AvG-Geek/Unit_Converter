@@ -56,7 +56,7 @@ def main():
         if from_v in units and to_v in units:
             if from_v == to_v:
                 new_value = speed(value, units[from_v], units[to_v])
-            elif from_v == "meter/second" and to_v != "meter/second":
+            elif units[from_v] == "meter/second" and units[to_v] != "meter/second":
                 new_value = speed(value, units[from_v], units[to_v])
 
             else:
